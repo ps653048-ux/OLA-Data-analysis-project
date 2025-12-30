@@ -28,30 +28,24 @@ SQL Analysis & Business Questions
 
 Data Loading into Power BI
 
-Cleaned and processed SQL data was imported directly into Power BI.
-imported directly into Power BI.
-
- Established proper relationships between tables for accurate reporting.
-
-e ETL (Extract, Transform, Load) process.
-
-Dashboard Development (Power BI)
-
-Built interactive dashboards to vBuilt interactive dashboards to visualize key metrics and KPIs.
-
-sUsed charts, slicers, and filters to enable dynamic analysis.
-
-, insightful, and business-friendly.
+1) Cleaned and processed SQL data was imported directly into Power BI.
+2) Established proper relationships between tables for accurate reporting.
+3) Ensured data integrity during the ETL (Extract, Transform, Load) process.
+4) Dashboard Development (Power BI)
+Built interactive dashboards to visualize key metrics and KPIs.
+5) Used charts, slicers, and filters to enable dynamic analysis.
+6) Designed dashboards to be simple, insightful, and business-friendly.
 
 📈 Key Insights Generated
 
-Ride demand trends across differeRide demand trends across different time periods
-tomer usage behavior
-PerformanCustomer usage behavior
-to operations and decision-making
+1) Ride demand trends across different time periods.
+2) Revenue and booking patterns
+Customer usage behavior.
+3) Performance indicators relevant to operations and decision-making. 
 
 🛠️ Tools & Technologies Used
 
-SQL – Data storage, cleaning, transformation, and analysis
+SQL – Data storage, cleaning, transformation, and analysis. 
+
 Power BI – Data modeling, visualization, and dashboard creation. 
 
